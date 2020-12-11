@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <settings>
+    <preloader image="images/DCW00001-1.jpg" />
+    <userInterface showZoomButtons="false" showToolTips="false" showHotspotsButton="false" showFullScreenButton="false" showTogglePlayButton="true" showArrows="false" toolbarAlign="center" toolbarBackColor="transparent" toolbarHoverColor="#808285" toolbarForeColor="#A7A9AE" toolbarBackAlpha="0" toolbarAlpha="1" showProgressNumbers="true" showFullScreenToolbar="false" fullScreenBackColor="#FFFFFF" toolbarPosition="0" customCursorClass="default_cursor" viewerHint="" toolbarAutohide="false" showToolbarOnLoadStart="false" />
+    <control dragSpeed="0.26" doubleClickZooms="true" disableMouseControl="false" showHighresOnFullScreen="false" mouseHoverDrag="false" hideHotspotsOnLoad="false" hideHotspotsOnZoom="true" rowSensitivity="15" dragSensitivity="10" inBrowserFullScreen="false" doubleClickFullscreen="false" zoomSteps="1" zoomSpeed="300" singleClickZooms="false" pauseOnPreload="false" resumePreloadOnHover="false" mouseWheelDrag="false" mouseWheelDragZoomOnly="false" allowRotateInputInZoom="false" allowPanX="true" allowPanY="true" />
+    <rotation firstImage="0" rotate="once" rotatePeriod="4" bounce="false" rotateDirection="-1" forceDirection="false" inertiaRelToDragSpeed="true" inertiaTimeToStop="700" inertiaMaxInterval="120" useInertia="true" flipHorizontalInput="false" flipVerticalInput="false" bounceRows="true" rowsOnSingleIndex="false" flipAxis="false" />
+  </settings>
+  <hotspots />
+  <images rows="1" highresWidth="2000" highresHeight="2000">
+    <image src="images/DCW00001-1.jpg">
+      <highres src="images/highres/DCW00001-1.jpg" />
+    </image>
+    <image src="images/DCW00001-2.jpg">
+      <highres src="images/highres/DCW00001-2.jpg" />
+    </image>
+    <image src="images/DCW00001-3.jpg">
+      <highres src="images/highres/DCW00001-3.jpg" />
+    </image>
+    <image src="images/DCW00001-4.jpg">
+      <highres src="images/highres/DCW00001-4.jpg" />
+    </image>
+    <image src="images/DCW00001-5.jpg">
+      <highres src="images/highres/DCW00001-5.jpg" />
+    </image>
+    <image src="images/DCW00001-6.jpg">
+      <highres src="images/highres/DCW00001-6.jpg" />
+    </image>
+    <image src="images/DCW00001-7.jpg">
+      <highres src="images/highres/DCW00001-7.jpg" />
+    </image>
+    <image src="images/DCW00001-8.jpg">
+      <highres src="images/highres/DCW00001-8.jpg" />
+    </image>
+    <image src="images/DCW00001-9.jpg">
+      <highres src="images/highres/DCW00001-9.jpg" />
+    </image>
+    <image src="images/DCW00001-10.jpg">
+      <highres src="images/highres/DCW00001-10.jpg" />
+    </image>
+    <image src="images/DCW00001-11.jpg">
+      <highres src="images/highres/DCW00001-11.jpg" />
+    </image>
+    <image src="images/DCW00001-12.jpg">
+      <highres src="images/highres/DCW00001-12.jpg" />
+    </image>
+    <image src="images/DCW00001-13.jpg">
+      <highres src="images/highres/DCW00001-13.jpg" />
+    </image>
+    <image src="images/DCW00001-14.jpg">
+      <highres src="images/highres/DCW00001-14.jpg" />
+    </image>
+    <image src="images/DCW00001-15.jpg">
+      <highres src="images/highres/DCW00001-15.jpg" />
+    </image>
+    <image src="images/DCW00001-16.jpg">
+      <highres src="images/highres/DCW00001-16.jpg" />
+    </image>
+    <image src="images/DCW00001-17.jpg">
+      <highres src="images/highres/DCW00001-17.jpg" />
+    </image>
+    <image src="images/DCW00001-18.jpg">
+      <highres src="images/highres/DCW00001-18.jpg" />
+    </image>
+    <image src="images/DCW00001-19.jpg">
+      <highres src="images/highres/DCW00001-19.jpg" />
+    </image>
+    <image src="images/DCW00001-20.jpg">
+      <highres src="images/highres/DCW00001-20.jpg" />
+    </image>
+    <image src="images/DCW00001-21.jpg">
+      <highres src="images/highres/DCW00001-21.jpg" />
+    </image>
+    <image src="images/DCW00001-22.jpg">
+      <highres src="images/highres/DCW00001-22.jpg" />
+    </image>
+    <image src="images/DCW00001-23.jpg">
+      <highres src="images/highres/DCW00001-23.jpg" />
+    </image>
+    <image src="images/DCW00001-24.jpg">
+      <highres src="images/highres/DCW00001-24.jpg" />
+    </image>
+    <image src="images/DCW00001-25.jpg">
+      <highres src="images/highres/DCW00001-25.jpg" />
+    </image>
+    <image src="images/DCW00001-26.jpg">
+      <highres src="images/highres/DCW00001-26.jpg" />
+    </image>
+    <image src="images/DCW00001-27.jpg">
+      <highres src="images/highres/DCW00001-27.jpg" />
+    </image>
+    <image src="images/DCW00001-28.jpg">
+      <highres src="images/highres/DCW00001-28.jpg" />
+    </image>
+    <image src="images/DCW00001-29.jpg">
+      <highres src="images/highres/DCW00001-29.jpg" />
+    </image>
+    <image src="images/DCW00001-30.jpg">
+      <highres src="images/highres/DCW00001-30.jpg" />
+    </image>
+    <image src="images/DCW00001-31.jpg">
+      <highres src="images/highres/DCW00001-31.jpg" />
+    </image>
+    <image src="images/DCW00001-32.jpg">
+      <highres src="images/highres/DCW00001-32.jpg" />
+    </image>
+    <image src="images/DCW00001-33.jpg">
+      <highres src="images/highres/DCW00001-33.jpg" />
+    </image>
+    <image src="images/DCW00001-34.jpg">
+      <highres src="images/highres/DCW00001-34.jpg" />
+    </image>
+    <image src="images/DCW00001-35.jpg">
+      <highres src="images/highres/DCW00001-35.jpg" />
+    </image>
+    <image src="images/DCW00001-36.jpg">
+      <highres src="images/highres/DCW00001-36.jpg" />
+    </image>
+    <image src="images/DCW00001-37.jpg">
+      <highres src="images/highres/DCW00001-37.jpg" />
+    </image>
+    <image src="images/DCW00001-38.jpg">
+      <highres src="images/highres/DCW00001-38.jpg" />
+    </image>
+    <image src="images/DCW00001-39.jpg">
+      <highres src="images/highres/DCW00001-39.jpg" />
+    </image>
+    <image src="images/DCW00001-40.jpg">
+      <highres src="images/highres/DCW00001-40.jpg" />
+    </image>
+  </images>
+</config>
